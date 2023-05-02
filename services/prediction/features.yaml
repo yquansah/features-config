@@ -14,7 +14,7 @@ flags:
     rank: 1
     distributions:
     - variant: fromOpenAI
-      rollout: 90
+      rollout: 110
   - segment: all-users
     rank: 2
     distributions:
